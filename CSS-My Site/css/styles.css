@@ -1,0 +1,55 @@
+h1{
+    margin-top: 50px auto 0 auto;
+    text-align: center;
+    font-family: 'Style Script', cursive;
+    font-size: 80px;
+    font-style: italic;
+    color: #655DBB;
+    line-height: 10px;
+}
+body{
+    margin: 0;
+    text-align: center;
+    background-color: #BFACE2;
+}
+h2{
+    font-family: cursive;
+    color: #655DBB;
+}
+h3{
+    font-family: cursive;
+}
+p{
+    font-family: cursive;
+}
+.skill-row{
+    width: 50%;
+    margin: 200px auto 100px auto;
+    background-color: #BFACE2;
+}
+
+.dev-img{
+    width: 25%;
+    float: left;
+}
+.chilli-img{
+    width: 25%;
+    float: right;
+    margin-left: 15%;
+}
+
+.top-container{
+    background-color: #BFACE2;
+    position: relative;
+    padding-top: 100px;
+}
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 400px;
+}
+.bottom-cloud{
+    position: absolute;
+    bottom: 300px;
+    left: 400px;
+}
